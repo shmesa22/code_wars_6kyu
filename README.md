@@ -8,3 +8,4 @@
 1. [Stop gninnips my sdrow](https://www.codewars.com/kata/stop-gninnips-my-sdrow) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/stop_gninnips_my_sdrow/index.js)
 1. [Playing with digits](https://www.codewars.com/kata/playing-with-digits) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/playing_with_digits/index.js)
 1. [Tribonacci sequence](https://www.codewars.com/kata/tribonacci-sequence) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/tribonacci_sequence/index.js)
+1. [Your order please](https://www.codewars.com/kata/your-order-please) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/your_order_please/index.js)
