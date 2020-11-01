@@ -17,3 +17,4 @@
 1. [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/who_likes_it/index.js)
 1. [Bit counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/bit_counting/index.js)
 1. [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/array.diff/index.js)
+1. [Create phone number](https://www.codewars.com/kata/525f50e3b73515a6db000b83) - [Solution](https://github.com/shmesa22/code_wars_6kyu/blob/master/src/create_phone_number/index.js)
